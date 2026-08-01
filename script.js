@@ -354,41 +354,17 @@ openLetterBtn.addEventListener("click", () => {
 
 const letterText = `Dear Sayangg,
 
-Happy National Girlfriend Day ❤️
+Happy Girlfriend Day.
 
-Thank you for coming into my life.
+Aku sebenernya nggak kepikiran mau bikin ucapan. Tapi rasanya aneh juga kalau hari ini aku diem aja.
 
-Thank you for staying beside me.
+Makasih ya, karena sampai sekarang kamu masih ada. Masih mau nemenin aku, masih mau sabar sama sifat aku yang kadang bikin kesel.
+Aku nggak selalu bisa bilang apa yang ada di pikiran aku. Tapi aku harap kamu tau kalau punya kamu di hidup aku itu udah bikin banyak hal terasa lebih ringan.
 
-Maybe I'm not perfect.
+Aku nggak tau nanti ke depannya bakal gimana. Yang aku tau, selama kita masih sama-sama mau bertahan, aku maunya tetap sama kamu.
+Happy Girlfriend Day, cantik. Jangan pergi ya,
 
-Maybe I still make mistakes.
-
-But one thing will never change...
-
-I will always choose you.
-
-Every smile,
-every laugh,
-and every little moment with you
-became one of my favorite memories.
-
-I hope today reminds you
-how special you are.
-
-Not only today.
-
-But every single day.
-
-Thank you for being my home,
-my happiness,
-and my favorite person.
-
-I Lay My Love On You.
-
-Forever Yours,
-
-Akbar ❤️`;
+Lucian ❤️`;
 
 /* ===================================================
    TYPEWRITER
